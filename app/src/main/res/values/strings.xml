@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sound Funny</string>
+    <string name="str_stop">Stop The Sound</string>
+    <string name="str_clips">Clips</string>
+    <string name="str_phrases">Phrases</string>
+    <string name="place_holder">Placeholder</string>
+</resources>

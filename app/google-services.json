@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "225512328698",
+    "firebase_url": "https://sound-funny.firebaseio.com",
+    "project_id": "sound-funny",
+    "storage_bucket": "sound-funny.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225512328698:android:d1e3e02f3552e069",
+        "android_client_info": {
+          "package_name": "shahin.soundfunny"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "225512328698-f19sf6opeigi9carsqv9avjgqcns1peu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "shahin.soundfunny",
+            "certificate_hash": "ce184a31bfd9d0a447e04239d075ea41928a39fc"
+          }
+        },
+        {
+          "client_id": "225512328698-3s5ci07jbdipbeg8r4baod2oe2rbaujd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhRnYQviNY1gfCnNBhzS_9xH0opqtxUxg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "225512328698-3s5ci07jbdipbeg8r4baod2oe2rbaujd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
